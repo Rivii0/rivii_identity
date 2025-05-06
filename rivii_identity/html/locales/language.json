@@ -1,0 +1,15 @@
+{
+    "character_Creation": "Character Creator",
+    "character_Detail": "Enter your character's details",
+    "Identity": "Identity",
+    "Identity_paragraph": "",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "DOB": "Date of Birth",
+    "Height": "Height",
+    "Gender": "Gender",
+    "Male": "Male",
+    "Female": "Female",
+    "Create": "Create",
+    "slogan": "rivii_identity"
+}
