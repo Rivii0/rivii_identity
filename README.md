@@ -15,7 +15,9 @@ rivii_identity is fivem script for creating character.
 
 Install oxmysql and es_extended if you don't have
 
-Add in your config.cfg "ensure rivii_identity" (make sure the resource is started after the all esx resources and before your multicharacter script)
+Add to your database tables from "rivii_identity.sql"
+
+Add in your server.cfg "ensure rivii_identity" (make sure the resource is started after the all esx resources and before your multicharacter script)
 
 Configure if you wish the "config.lua" file
 
